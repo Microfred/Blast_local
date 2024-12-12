@@ -1,5 +1,5 @@
 ---
-title: "JUAN_ALFREDO"
+title: "BLAST (Basic Local Alignment Search Tool)"
 author: "JAHG"
 date: "9/11/2024"
 output: html_document
@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## ¿Qué es [**blast**](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
